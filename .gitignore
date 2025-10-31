@@ -1,0 +1,10 @@
+#environment
+env/
+.env/
+__pycache__/
+*.pyc
+
+
+#ignore data or cache files
+events.json
+*.log
